@@ -8,6 +8,3 @@ class Solution:
                 dictt[i]=1
         return False
 
-
-
-        
